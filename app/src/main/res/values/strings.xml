@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Viewpointer</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="altitude">Altitude</string>
+    <string name="bearing">Bearing:</string>
+    <string name="pitch">Pitch:</string>
+    <string name="unknown">Unknown</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_location">Set location</string>
+    <string name="set_location_message">You can manually set your location:</string>
+    <string name="save_viewpoints">Save viewpoints</string>
+    <string name="load_viewpoints">Load viewpoints</string>
+
+    <!-- File dialog-->
+    <string name="location">Location</string>
+    <string name="cant_read_folder">folder can\'t be read!</string>
+    <string name="nnew">New</string>
+    <string name="select">Select</string>
+    <string name="file_name">File name:</string>
+    <string name="create">Save</string>
+    <string name="no_data">No Data</string>
+    <color name="gray">#ffff0000</color>
+    <string name="err">Error</string>
+</resources>
